@@ -1,0 +1,1 @@
+Most important functions have already been imported to main.py. You may refer to the example there on how to use this folder. The vectors (arrays) in the input to FFT/IFFT are supposed to be the values of the function at equally spaced intervals
