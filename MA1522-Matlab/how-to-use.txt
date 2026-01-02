@@ -1,0 +1,1 @@
+The methods here have all been documented Java-style, so hopefully you can read them and understand how they work. Unfortunately I don't really know how to write examples and test cases in matlab so eh -\(.-.)/-
