@@ -1,0 +1,3 @@
+This is a converter from matlab to sympy and vice versa. Simply run interface.py, then you let create a new matrix by using readm(string-from-matlab) and use the functions as you like. 
+
+We have eval() and svd() to help make the svd singular values sorted from largest to smallest, and keeping U and V square orthogonal matrices.
