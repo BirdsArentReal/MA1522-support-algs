@@ -32,7 +32,7 @@ ans_sq_pulse, _ = timeit(lambda: FFT(square_pulse))
 ans_sine, _ = timeit(lambda: IFFT(FFT(sine_x)))
 
 ans_sine2, _ = timeit(lambda: FFT(IFFT(sine_2x)))
-ans_cos3, _ = timeit(lambda: FFT(cos_3x))
+ans_cos3, _ = timeit(lambda: FFT(cos_8x))
 
 print(display(ans_sine))
 print(display(ans_sine2))
